@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">szakdolgozat</string>
+    <string name="elso">A szó első betűje</string>
+    <string name="masodik">A szó második betűje</string>
+    <string name="harmadik">A szó harmadik betűje</string>
+    <string name="negyedik">A szó nagyedik betűje</string>
+    <string name="otodik">A szó ötödik betűje</string>
+    <string name="balaton_tortenete">A Balaton Története</string>
+    <string name="leiras">A tó adatai:\n
+· Hosszúság: 79 km\n
+· Átlagos szélesség: 7,7 km\n
+· Legnagyobb szélesség: (Balatonaliga - B.almádi)\n
+· Legkisebb szélesség: 1,3 km (a Tihanyi-félszigetnél)\n
+· Terület: 594 km2\n
+· Partszakasz hossza: 195 km\n
+· Átlagos mélység: 3 m\n
+· Legmélyebb: 12,5 m (Tihanynál)\n
+· Legsekélyebb: 0,5 - 0,8 m (a déli parton, 300-500 méterre\n
+· a parttól), 1,2 - 2 m (északon, pár méterre a parttól)\n
+· Vízmennyiség: 1,9 milliárd m3\n
+· Tengerszint feletti magasság: 104 m\n
+
+A Balaton kialakulásában kéregmozgások játszották a fő szerepet. Talán meglepő, de a tudományos kutatások alapján a tó viszonylag fiatal, csupán mintegy 15-17 ezer éves. A kezdetekben több sekély különálló tavacskából álló tórendszerből körülbelül 5000 évvel ezelőtt alakult ki a ma ismert, egységes vízfelületű Balaton.\n\n
+A „Magyar Tenger” 77 km hosszú, szélessége 1,3 és 14 km között ingadozik, felülete 594 km². Átlagos mélysége 3,0-3,6 méter.\n\n
+A Balaton felszínét több mint 2000 órán át süti a nap évente, s mivel kis mélységű tóról van szó, ezért hőmérséklete gyorsan követi a levegő hőmérsékletét. Nyár közepén, tartósan forró napokon nem ritka a 24-27 Celsius-fokú Balaton sem.\n\n
+A Balaton növény- és állatvilága\n\n
+A Balaton mérsékelten meleg, mérsékelten száraz éghajlata gazdag és értékes növény- és állatvilág kialakulását tette lehetővé. Gyakoriak a hínárok, főleg a part menti vízben, szintén a partok közelében található sok nádas, mely hangulatos képet fest. A nádasoknak emellett jelentős feladatuk is van: védenek a hullámzás ellen, a part felé jó bioszűrők, a halak bölcsője, s több védett növény is (pl. orchideafajok) él a nádasok területén.\n\n
+A Balaton állatvilága rendkívül gazdag. A tóban és környékén több mint 1400 különböző állatfaj éli mindennapjait. Kagylók, szitakötők, különleges bogarak (pl. feketejegyű nádfutó). A Balatonban körülbelül ötven halfaj tenyészik (garda, csuka, fogassüllő, dévérkeszeg). Sok madárfaj honol errefelé, illetve itt pihennek meg útjaik során (pl. tőkés récék, szárcsák), itt van találkozóhelyük. A nádasokban és a Balaton környékén többféle emlős is megtalálható (pl. vidra, cickány, denevér)</string>
+    <string name="helyszinek_text">Helyszínek</string>
+    <string name="fomenu_text">Balatoni Kisokos</string>
+    <string name="fomenu_helyszinek_text">Helyszínek</string>
+    <string name="fomenu_allatok_text">Állatok</string>
+    <string name="fomenu_jatekok_text">Játékok</string>
+    <string name="fomenu_toretenet_text">Balaton\ntörténete</string>
+    <string name="wordle_gratulalas">Gratulálok!\nKitaláltad a helyes szót!</string>
+    <string name="wordle_uj_jatek">Új játék</string>
+</resources>

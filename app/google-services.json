@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023497601807",
+    "project_id": "balatonikisokos",
+    "storage_bucket": "balatonikisokos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023497601807:android:8f22828120535b61b8747a",
+        "android_client_info": {
+          "package_name": "com.example.szakdolgozat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023497601807-t6pi5gvsj0lqqanjjsu74cmjo2ppq3aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX6-6_WyIsd7AHb04H0_wEVxqdr1mrr_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023497601807-t6pi5gvsj0lqqanjjsu74cmjo2ppq3aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
